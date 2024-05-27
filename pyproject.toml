@@ -29,6 +29,8 @@ python = "^3.10"
 click = "^8.1.7"
 requests = "^2.32.2"
 sphinx-click-rst-to-ansi-formatter = "^0.1.0"
+pydantic-scim2 = "^0.2.1"
+aiohttp = "^3.9.5"
 
 [tool.poetry.group.doc]
 optional = true
